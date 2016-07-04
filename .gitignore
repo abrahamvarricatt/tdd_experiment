@@ -1,3 +1,4 @@
 .cache/
 VENV/
 test-output/
+.idea/
